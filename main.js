@@ -9,4 +9,4 @@ function removeElement(array, item) {
   return array;
 }
 
-console.log(removeElement(array, item));
+document.write(removeElement(array, item));
